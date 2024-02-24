@@ -1,0 +1,27 @@
+[
+    {
+        "name": "John Doe",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/029/321/351/small/ai-generative-business-man-in-a-suit-white-transparent-background-photo.jpg",
+        "review": "I've been working with this digital marketing agency for a few months now, and I'm extremely satisfied with the results. Their team is professional, knowledgeable, and dedicated. They've helped us increase our online visibility and generate more leads. Highly recommended!"
+    },
+    {
+        "name": "Jane Smith",
+        "image": "https://t3.ftcdn.net/jpg/01/91/85/06/360_F_191850653_IkzN9vZTtOtJ8NTKLKOp8PlaY8iCk6Ls.jpg",
+        "review": "I can't say enough good things about this digital marketing company. From the initial consultation to the ongoing support, they've been fantastic every step of the way. They truly understand our business goals and have tailored their strategies to meet our needs. Our online presence has improved significantly since we started working with them."
+    },
+    {
+        "name": "David Johnson",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/029/321/351/small/ai-generative-business-man-in-a-suit-white-transparent-background-photo.jpg",
+        "review": "Working with this digital marketing agency has been a game-changer for our business. Their expertise in SEO and PPC has helped us rank higher in search results and drive more targeted traffic to our website. The team is responsive, creative, and always willing to go the extra mile. We've seen a significant increase in leads and sales since partnering with them."
+    },
+    {
+        "name": "Emily Wilson",
+        "image": "https://t3.ftcdn.net/jpg/01/91/85/06/360_F_191850653_IkzN9vZTtOtJ8NTKLKOp8PlaY8iCk6Ls.jpg",
+        "review": "I'm so impressed with the results we've achieved with this digital marketing firm. Their social media marketing campaigns have helped us build a strong online community and engage with our audience in meaningful ways. They're proactive in providing recommendations and implementing new strategies to keep us ahead of the competition. I highly recommend their services."
+    },
+    {
+        "name": "Michael Brown",
+        "image": "https://static.vecteezy.com/system/resources/thumbnails/029/321/351/small/ai-generative-business-man-in-a-suit-white-transparent-background-photo.jpg",
+        "review": "I've had a great experience working with this digital marketing agency. Their team is knowledgeable, responsive, and easy to work with. They've helped us improve our website's performance and visibility in search engines, resulting in more traffic and leads. I appreciate their professionalism and dedication to our success."
+    }
+]

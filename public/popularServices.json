@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "category": "Search Engine Optimization (SEO)",
+        "name": "SEO Service",
+        "description": "Comprehensive SEO service covering On-Page & Off-Page optimization, Keyword Research, and Audits.",
+        "icon": "FaSearch"
+    },
+    {
+        "id": 13,
+        "category": "Social Media Advertising",
+        "name": "Facebook Ads",
+        "description": "Targeted ads on Facebook and Instagram for increased engagement.",
+        "icon": "FaFacebook"
+    },
+    {
+        "id": 29,
+        "category": "Email Marketing",
+        "name": "Email Campaign Strategy",
+        "description": "Plan and execute targeted email campaigns for conversions.",
+        "icon": "FaEnvelope"
+    },
+    {
+        "id": 34,
+        "category": "Home website and Sales Channel Management",
+        "name": "DTC Website Development",
+        "description": "Design and build optimized e-commerce websites.",
+        "icon": "FaHome"
+    },
+    {
+        "id": 48,
+        "category": "Analytics and Reporting",
+        "name": "Data Analysis",
+        "description": "Analyze data to uncover actionable insights.",
+        "icon": "FaChartBar"
+    },
+    {
+        "id": 52,
+        "category": "Motion Graphics, Animation & Video Editing",
+        "name": "Explainer Videos",
+        "description": "Create animated videos to explain concepts effectively.",
+        "icon": "FaVideo"
+    }
+]

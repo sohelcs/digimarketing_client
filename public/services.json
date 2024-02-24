@@ -1,0 +1,513 @@
+[
+    {
+        "id": "c1",
+        "category": "Search Engine Optimization (SEO)",
+        "icon": "TbSeo",
+        "services": [
+            {
+                "id": 1,
+                "name": "SEO Service",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+                "description": "Comprehensive SEO service covering On-Page & Off-Page optimization, Keyword Research, and Audits.",
+                "icon": "FaSearch"
+            }
+        ]
+    },
+    {
+        "id": "c2",
+        "category": "Pay-Per-Click (PPC) Advertising",
+        "icon": "RiAdvertisementLine",
+        "services": [
+            {
+                "id": 5,
+                "name": "Search Ads",
+                "subCat": "Google Ads",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Text-based advertisements displayed on search engine results pages (SERPs) triggered by specific keywords. Highly targeted and measurable, offering immediate visibility to potential customers.",
+                "icon": "FaGoogle"
+            },
+            {
+                "id": 6,
+                "name": "Display Ads",
+                "subCat": "Google Ads",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Visual advertisements displayed on websites within Google's Display Network. Increases brand visibility and drives traffic through eye-catching graphics and compelling messaging.",
+                "icon": "FaGoogle"
+            },
+            {
+                "id": 7,
+                "name": "Video Ads",
+                "subCat": "Google Ads",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Advertisements displayed before, during, or after YouTube videos or within the Google Display Network. Engage audiences through storytelling and visual content.",
+                "icon": "FaGoogle"
+            },
+            {
+                "id": 8,
+                "name": "App Ads",
+                "subCat": "Google Ads",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Promotional campaigns aimed at increasing app installations or engagement. Advertisements appear on Google Search, Google Play, YouTube, and across the web.",
+                "icon": "FaGoogle"
+            },
+            {
+                "id": 9,
+                "name": "Google Shopping Campaigns",
+                "subCat": "Product Listing Ads (PLA)",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Showcase products directly within Google search results, featuring product images, prices, and store information. Drive qualified traffic to e-commerce websites.",
+                "icon": "FaGoogle"
+            },
+            {
+                "id": 10,
+                "name": "Sponsored Products",
+                "subCat": "Amazon Ads",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Promote individual product listings within Amazon search results. Increase product visibility and drive sales with targeted advertising.",
+                "icon": "FaAmazon"
+            },
+            {
+                "id": 11,
+                "name": "Sponsored Brands",
+                "subCat": "Amazon Ads",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Display custom ads featuring your brand logo, a curated product showcase, and a headline within Amazon search results. Drive brand awareness and consideration.",
+                "icon": "FaAmazon"
+            },
+            {
+                "id": 12,
+                "name": "Sponsored Display",
+                "subCat": "Amazon Ads",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Reach relevant audiences both on and off Amazon with display ads that drive product consideration. Target shoppers based on their interests and behaviors.",
+                "icon": "FaAmazon"
+            },
+            {
+                "id": 13,
+                "name": "Facebook Ads",
+                "subCat": "Social Media Advertising",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Targeted advertisements displayed on Facebook and Instagram, reaching specific demographics based on interests, behaviors, and demographics. Drive website visits, app installs, or engagement.",
+                "icon": "FaFacebook"
+            },
+            {
+                "id": 14,
+                "name": "Instagram Ads",
+                "subCat": "Social Media Advertising",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Visual advertisements displayed on Instagram, reaching users based on interests, behaviors, and demographics. Drive brand awareness, website visits, or app installs.",
+                "icon": "FaInstagram"
+            },
+            {
+                "id": 15,
+                "name": "LinkedIn Ads",
+                "subCat": "Social Media Advertising",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Targeted advertisements displayed on LinkedIn, reaching professionals based on job title, industry, and company size. Drive leads, website visits, or brand awareness.",
+                "icon": "FaLinkedin"
+            },
+            {
+                "id": 16,
+                "name": "Twitter Ads",
+                "subCat": "Social Media Advertising",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Promoted tweets and advertisements displayed on Twitter, reaching users based on interests, keywords, and demographics. Drive engagement, website visits, or app installs.",
+                "icon": "FaTwitter"
+            },
+            {
+                "id": 17,
+                "name": "Pinterest Ads",
+                "subCat": "Social Media Advertising",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Promoted pins and advertisements displayed on Pinterest, reaching users based on interests, behaviors, and demographics. Drive brand awareness, website visits, or product sales.",
+                "icon": "FaPinterest"
+            },
+            {
+                "id": 18,
+                "name": "Banner Ads",
+                "subCat": "Display Advertising",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Visual advertisements displayed on websites, typically in the form of static or animated images. Increase brand visibility and drive traffic to websites or landing pages.",
+                "icon": "FaImage"
+            },
+            {
+                "id": 19,
+                "name": "Retargeting/Remarketing Ads",
+                "subCat": "Display Advertising",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Advertisements shown to users who have previously visited a website or interacted with an app. Increase conversion rates by re-engaging interested audiences.",
+                "icon": "FaImage"
+            },
+            {
+                "id": 20,
+                "name": "Programmatic Advertising",
+                "subCat": "Display Advertising",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Automated buying and selling of digital advertisements in real-time through an exchange. Optimize ad placements and targeting for maximum effectiveness.",
+                "icon": "FaImage"
+            }
+        ]
+    },
+    {
+        "id": "c3",
+        "category": "Social Media Management",
+        "icon": "TbSocial",
+        "services": [
+            {
+                "id": 21,
+                "name": "Social Media Strategy",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+                "description": "Develop a comprehensive plan to achieve business goals through social media platforms. Define target audiences, content themes, posting schedules, and engagement strategies.",
+                "icon": "FaUsers"
+            },
+            {
+                "id": 22,
+                "name": "Content Creation and Scheduling",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+                "description": "Create and schedule engaging content for social media platforms, including images, videos, and captions. Maintain a consistent brand voice and aesthetic across channels.",
+                "icon": "FaCalendar"
+            },
+            {
+                "id": 23,
+                "name": "Community Engagement",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+                "description": "Interact with followers, respond to comments and messages, and participate in relevant conversations within social media communities. Build relationships and foster brand loyalty.",
+                "icon": "FaComments"
+            },
+            {
+                "id": 24,
+                "name": "Social Media Advertising",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+                "description": "Strategically promote content and products through paid advertisements on social media platforms. Target specific audiences to increase reach, engagement, and conversions.",
+                "icon": "FaAd"
+            }
+        ]
+    },
+    {
+        "id": "c4",
+        "category": "Content Marketing",
+        "icon": "BiSolidBookContent",
+        "services": [
+            {
+                "id": 25,
+                "name": "Content Strategy",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+                "description": "Develop a roadmap for creating and distributing valuable, relevant, and consistent content to attract and retain a clearly defined audience. Align content with business objectives and audience needs.",
+                "icon": "FaFileAlt"
+            },
+            {
+                "id": 26,
+                "name": "Blogging",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+                "description": "Create and publish informative and engaging blog posts to attract organic traffic, establish authority in your industry, and nurture relationships with your audience.",
+                "icon": "FaBlog"
+            },
+            {
+                "id": 27,
+                "name": "Video Marketing",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+                "description": "Create and distribute compelling video content to educate, entertain, and engage your audience. Utilize videos across various channels to drive brand awareness and conversions.",
+                "icon": "FaVideo"
+            },
+            {
+                "id": 28,
+                "name": "Infographics and Visual Content",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+                "description": "Design visually appealing infographics and other visual content to convey complex information in a clear and engaging manner. Drive traffic, shares, and backlinks through visual storytelling.",
+                "icon": "FaImage"
+            }
+        ]
+    },
+    {
+        "id": "c5",
+        "category": "Email Marketing",
+        "icon": "SiMarketo",
+        "services": [
+            {
+                "id": 29,
+                "name": "Email Campaign Strategy",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+                "description": "Plan and execute targeted email campaigns to nurture leads, promote products or services, and drive conversions. Develop personalized messaging and segmentation strategies for maximum impact.",
+                "icon": "FaEnvelope"
+            },
+            {
+                "id": 30,
+                "name": "Email Design and Copywriting",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+                "description": "Create visually appealing email designs and compelling copy that resonates with your audience and drives action. Optimize for mobile responsiveness and deliverability.",
+                "icon": "FaEnvelope"
+            },
+            {
+                "id": 31,
+                "name": "Automation and Drip Campaigns",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+                "description": "Set up automated email workflows and drip campaigns to deliver timely and relevant content to subscribers based on their behavior and preferences. Nurture leads and drive engagement with automated sequences.",
+                "icon": "FaEnvelope"
+            },
+            {
+                "id": 32,
+                "name": "Email Analytics",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+                "description": "Track and analyze key metrics such as open rates, click-through rates, and conversion rates to measure the effectiveness of email campaigns. Use insights to refine strategies and optimize performance.",
+                "icon": "FaEnvelope"
+            }
+        ]
+    },
+    {
+        "id": "c6",
+        "category": "Home website and Sales Channel Management",
+        "icon": "GrChannel",
+        "services": [
+            {
+                "id": 33,
+                "name": "E-commerce Strategy",
+                "subCat": "DTC Website and Sales Channel Management",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Develop a comprehensive strategy for selling products directly to consumers online. Define pricing, distribution, and marketing tactics to maximize sales and profitability.",
+                "icon": "FaHome"
+            },
+            {
+                "id": 34,
+                "name": "DTC Website Development",
+                "subCat": "DTC Website and Sales Channel Management",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Design and build custom e-commerce websites optimized for user experience, conversion, and search engine visibility. Implement secure payment gateways and intuitive navigation.",
+                "icon": "FaHome"
+            },
+            {
+                "id": 35,
+                "name": "Sales Channel Integration",
+                "subCat": "DTC Website and Sales Channel Management",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Integrate e-commerce platforms with various sales channels, including marketplaces, social media, and offline stores. Sync inventory, orders, and customer data for seamless multichannel selling.",
+                "icon": "FaHome"
+            },
+            {
+                "id": 36,
+                "name": "Product Data Optimization",
+                "subCat": "Product Listing and SKU Management",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Optimize product data such as titles, descriptions, and attributes to improve visibility and ranking on e-commerce platforms. Ensure accuracy and completeness for better discoverability.",
+                "icon": "FaBoxes"
+            },
+            {
+                "id": 37,
+                "name": "SKU Organization and Tracking",
+                "subCat": "Product Listing and SKU Management",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Establish a systematic approach for managing stock keeping units (SKUs) to track inventory levels, variations, and performance metrics. Streamline operations and prevent stockouts or overstocks.",
+                "icon": "FaBoxes"
+            },
+            {
+                "id": 38,
+                "name": "Inventory Management",
+                "subCat": "Product Listing and SKU Management",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Implement inventory control processes and systems to optimize stock levels, reduce holding costs, and prevent stockouts. Monitor inventory turnover and forecast demand to ensure adequate stock availability.",
+                "icon": "FaBoxes"
+            },
+            {
+                "id": 39,
+                "name": "Product Listings on Amazon",
+                "subCat": "Amazon Seller Central Management",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Create and optimize product listings on Amazon to increase visibility and sales. Optimize product titles, descriptions, images, and keywords for maximum search exposure.",
+                "icon": "FaAmazon"
+            },
+            {
+                "id": 40,
+                "name": "Adding A+ Content",
+                "subCat": "Amazon Seller Central Management",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Enhance product detail pages with rich media content such as enhanced images, videos, and comparison charts. Provide shoppers with detailed product information to improve conversion rates.",
+                "icon": "FaAmazon"
+            },
+            {
+                "id": 41,
+                "name": "Amazon Advertising",
+                "subCat": "Amazon Seller Central Management",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Strategically promote products on Amazon through sponsored product ads, display ads, and other advertising formats. Increase visibility and drive sales with targeted campaigns.",
+                "icon": "FaAmazon"
+            },
+            {
+                "id": 42,
+                "name": "Order Fulfillment and Logistics",
+                "subCat": "Amazon Seller Central Management",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Manage order fulfillment processes efficiently to ensure timely delivery and customer satisfaction. Optimize shipping methods, inventory storage, and order processing workflows.",
+                "icon": "FaAmazon"
+            },
+            {
+                "id": 43,
+                "name": "Performance Monitoring and Optimization",
+                "subCat": "Amazon Seller Central Management",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Track key performance indicators (KPIs) such as sales, traffic, and customer reviews to measure the effectiveness of Amazon selling strategies. Use data-driven insights to optimize listings and campaigns.",
+                "icon": "FaAmazon"
+            },
+            {
+                "id": 44,
+                "name": "eBay Store Management",
+                "subCat": "EBay and Walmart Account Management",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Optimize eBay store settings, product listings, and seller performance to increase visibility and sales. Implement best practices for pricing, promotions, and customer service.",
+                "icon": "FaShoppingCart"
+            },
+            {
+                "id": 45,
+                "name": "Walmart Marketplace Management",
+                "subCat": "EBay and Walmart Account Management",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Manage product listings, inventory levels, and order processing on the Walmart Marketplace. Ensure compliance with Walmart's requirements and optimize listings for search visibility.",
+                "icon": "FaShoppingCart"
+            },
+            {
+                "id": 46,
+                "name": "Listing Optimization",
+                "subCat": "EBay and Walmart Account Management",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Optimize product listings with relevant keywords, compelling descriptions, and high-quality images to improve search visibility and conversion rates. Monitor performance and make data-driven optimizations.",
+                "icon": "FaShoppingCart"
+            },
+            {
+                "id": 47,
+                "name": "Order Processing and Fulfillment",
+                "subCat": "EBay and Walmart Account Management",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) byCicero, written in 45 BC. Thi book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem psum dolor sit amet.., come from a line in section 1.10.32.",
+                "description": "Efficiently process and fulfill orders from eBay, Walmart, and other sales channels. Implement streamlined workflows and integrate with shipping carriers for seamless order management.",
+                "icon": "FaShoppingCart"
+            }
+        ]
+    },
+    {
+        "id": "c7",
+        "category": "Analytics and Reporting",
+        "icon": "TbDeviceDesktopAnalytics",
+        "services": [
+            {
+                "id": 48,
+                "name": "Data Analysis",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+                "description": "Analyze and interpret data from various sources to uncover actionable insights and trends. Utilize statistical techniques and data visualization tools to communicate findings effectively.",
+                "icon": "FaChartBar"
+            },
+            {
+                "id": 49,
+                "name": "Performance Tracking",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+                "description": "Track and monitor key performance indicators (KPIs) to measure the effectiveness of marketing campaigns and business strategies. Identify areas for improvement and optimize performance accordingly.",
+                "icon": "FaChartBar"
+            },
+            {
+                "id": 50,
+                "name": "Custom Analytics Solutions",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+                "description": "Develop customized analytics solutions tailored to specific business needs and objectives. Implement advanced analytics techniques to gain deeper insights and competitive advantage.",
+                "icon": "FaChartBar"
+            },
+            {
+                "id": 51,
+                "name": "Reporting and Insights",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+                "description": "Generate regular reports and actionable insights to communicate performance metrics, trends, and opportunities to stakeholders. Present data in a clear, concise, and visually appealing format.",
+                "icon": "FaChartBar"
+            }
+        ]
+    },
+    {
+        "id": "c8",
+        "category": "Motion Graphics, Animation & Video Editing",
+        "icon":"MdOutlineVideoSettings",
+        "services": [
+            {
+                "id": 52,
+                "name": "Explainer Videos",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+                "description": "Create animated videos that explain complex concepts, products, or services in a simple and engaging manner. Grab audience attention and communicate key messages effectively.",
+                "icon": "FaVideo"
+            },
+            {
+                "id": 53,
+                "name": "Motion Graphics Design",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+                "description": "Design visually appealing animations and graphics to enhance videos, presentations, and other digital content. Bring static visuals to life and create immersive user experiences.",
+                "icon": "FaVideo"
+            },
+            {
+                "id": 54,
+                "name": "Animated Infographics",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+                "description": "Transform static infographics into dynamic animations to convey information more effectively and engage audiences. Combine data visualization with storytelling for impactful communication.",
+                "icon": "FaVideo"
+            },
+            {
+                "id": 55,
+                "name": "Video Editing and Post-Production",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+                "description": "Edit and enhance raw footage to create polished video content for various platforms and purposes. Incorporate effects, transitions, and sound design to captivate viewers and convey messages.",
+                "icon": "FaVideo"
+            },
+            {
+                "id": 56,
+                "name": "VFX (Visual Effects)",
+                "lottie": "https://www.hvpmag.co.uk/images/teaser/seo.jpg",
+                "long_desc": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+                "description": "Integrate computer-generated imagery (CGI) and special effects into videos to create stunning visual experiences. Enhance storytelling and immerse viewers in cinematic worlds.",
+                "icon": "FaVideo"
+            }
+        ]
+    }
+]

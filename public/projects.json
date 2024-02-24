@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "E-commerce Website",
+        "banner": "https://cdn.sanity.io/images/tlr8oxjg/production/2d8450596e26adafc8e47e88a65bce42104b732a-1456x816.png?w=3840&q=80&fit=clip&auto=format",
+        "description": "A fully functional e-commerce website built with modern technologies like React.js and Node.js. Includes features such as product search, user authentication, and payment integration.",
+        "category": "Web Development"
+    },
+    {
+        "id": 2,
+        "title": "Mobile Task Manager App",
+        "banner": "https://www.simplilearn.com/ice9/free_resources_article_thumb/data_analyticstrendsmin.jpg",
+        "description": "An intuitive mobile app for task management, allowing users to create, prioritize, and organize tasks on the go. Developed for both iOS and Android platforms using React Native.",
+        "category": "Mobile App Development"
+    },
+    {
+        "id": 3,
+        "title": "Data Visualization Dashboard",
+        "banner": "https://cdn.sanity.io/images/tlr8oxjg/production/2d8450596e26adafc8e47e88a65bce42104b732a-1456x816.png?w=3840&q=80&fit=clip&auto=format",
+        "description": "A comprehensive dashboard for visualizing complex datasets. Utilizes libraries like D3.js and Plotly.js to create interactive charts and graphs, enabling users to gain insights from their data.",
+        "category": "Data Science"
+    },
+    {
+        "id": 4,
+        "title": "Smart Home Automation System",
+        "banner": "https://www.simplilearn.com/ice9/free_resources_article_thumb/data_analyticstrendsmin.jpg",
+        "description": "An IoT-based solution for automating home appliances and security systems. Integrates with smart devices such as thermostats, lights, and cameras, allowing users to control their home remotely.",
+        "category": "Internet of Things (IoT)"
+    },
+    {
+        "id": 5,
+        "title": "Social Media Analytics Tool",
+        "banner": "https://cdn.sanity.io/images/tlr8oxjg/production/2d8450596e26adafc8e47e88a65bce42104b732a-1456x816.png?w=3840&q=80&fit=clip&auto=format",
+        "description": "A powerful tool for analyzing social media trends and sentiment. Integrates with APIs from major social media platforms to gather real-time data and provides insights through advanced analytics.",
+        "category": "Data Analytics"
+    },
+    {
+        "id": 6,
+        "title": "Online Learning Platform",
+        "banner": "https://www.simplilearn.com/ice9/free_resources_article_thumb/data_analyticstrendsmin.jpg",
+        "description": "An online platform offering courses on various subjects such as programming, design, and business. Features include video lectures, quizzes, and interactive assignments.",
+        "category": "Education Technology"
+    }
+]
